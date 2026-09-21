@@ -3,7 +3,7 @@
 > **Norton Park, A Gamuda Land Community**
 > Toạ độ xứng tầm đầu tiên tại Bình Dương
 
-[![Deploy Status](https://img.shields.io/badge/staging-vercel-black?logo=vercel)](https://nortonpark-website.vercel.app)
+[![Deploy Status](https://img.shields.io/badge/staging-vercel-black?logo=vercel)](https://nortonparklandingwebsite.vercel.app)
 
 ---
 
@@ -137,7 +137,7 @@ Những thứ **bắt buộc thay** trước khi go live:
 
 | Env | URL | Status |
 |---|---|---|
-| **Staging** | *sẽ update* | Preview |
+| **Staging** | [nortonparklandingwebsite.vercel.app](https://nortonparklandingwebsite.vercel.app) | ✅ Live |
 | **Production** | TBD | Chưa deploy |
 | **GitHub** | [duytruong-lang/nortonpark-website](https://github.com/duytruong-lang/nortonpark-website) | Private |
 
